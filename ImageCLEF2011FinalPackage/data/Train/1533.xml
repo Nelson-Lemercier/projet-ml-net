@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>1533.jpg</FileName>
+  <Date>05/11/10 14:05</Date>
+  <Type>photograph</Type>
+  <Organization>Inra</Organization>
+  <Author>Bonnet Pierre</Author>
+  <IndividualPlantId>316</IndividualPlantId>
+  <Taxon>
+    <Clade3>Angiosperms</Clade3>
+    <Clade2>Magnoliids</Clade2>
+    <Clade1>Magnoliales</Clade1>
+    <Regnum>Plantae</Regnum>
+    <Order>Magnoliales</Order>
+    <Family>Magnoliaceae</Family>
+    <Species>grandiflora</Species>
+    <Genus>Magnolia</Genus>
+  </Taxon>
+  <VernacularNames>Southern Magnolia</VernacularNames>
+  <Locality>Herault - Lattes</Locality>
+  <Content>Foliage</Content>
+  <GPSLocality>
+    <Longitude>3.903613889</Longitude>
+    <Latitude>43.56823889</Latitude>
+    <Altitude>0.0</Altitude>
+  </GPSLocality>
+</Image>
+

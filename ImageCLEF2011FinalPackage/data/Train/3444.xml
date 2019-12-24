@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>3444.jpg</FileName>
+  <Date>1990/05</Date>
+  <Type>photograph</Type>
+  <Organization>Inra</Organization>
+  <Author>Barthelemy Daniel</Author>
+  <IndividualPlantId>389</IndividualPlantId>
+  <Taxon>
+    <Clade3>Angiosperms</Clade3>
+    <Clade2>Eudicots</Clade2>
+    <Clade1>Rosids</Clade1>
+    <Regnum>Plantae</Regnum>
+    <Order>Sapindales</Order>
+    <Family>Sapindaceae</Family>
+    <Species>platanoides</Species>
+    <Genus>Acer</Genus>
+  </Taxon>
+  <VernacularNames>Norway Maple</VernacularNames>
+  <Locality>Isere - Lumbin</Locality>
+  <Content>Foliage</Content>
+  <GPSLocality>
+    <Longitude>5.912519444</Longitude>
+    <Latitude>45.30621667</Latitude>
+    <Altitude>0.0</Altitude>
+  </GPSLocality>
+</Image>
+

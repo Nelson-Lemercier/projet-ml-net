@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>3859.jpg</FileName>
+  <Date>05/06/10 09:32</Date>
+  <Type>photograph</Type>
+  <Organization>IRD</Organization>
+  <Author>Molino Jean-francois</Author>
+  <IndividualPlantId>367</IndividualPlantId>
+  <Taxon>
+    <Clade3>Angiosperms</Clade3>
+    <Clade2>Eudicots</Clade2>
+    <Clade1>Rosids</Clade1>
+    <Regnum>Plantae</Regnum>
+    <Order>Fabales</Order>
+    <Family>Fabaceae</Family>
+    <Species>siliquastrum</Species>
+    <Genus>Cercis</Genus>
+  </Taxon>
+  <VernacularNames>Judas Tree</VernacularNames>
+  <Locality>Herault - Grabels</Locality>
+  <Content>Foliage</Content>
+  <GPSLocality>
+    <Longitude>3.797119444</Longitude>
+    <Latitude>43.64771944</Latitude>
+    <Altitude>0.0</Altitude>
+  </GPSLocality>
+</Image>
+

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>2175.jpg</FileName>
+  <Date>06/08/09</Date>
+  <Type>Scan</Type>
+  <Organization>Tela</Organization>
+  <Author>Benezet Ruddy</Author>
+  <IndividualPlantId>149</IndividualPlantId>
+  <Taxon>
+    <Clade3>Angiosperms</Clade3>
+    <Clade2>Eudicots</Clade2>
+    <Clade1>Rosids</Clade1>
+    <Regnum>Plantae</Regnum>
+    <Order>Rosales</Order>
+    <Family>Rosaceae</Family>
+    <Species>japonica</Species>
+    <Genus>Eriobotrya</Genus>
+  </Taxon>
+  <VernacularNames>Japanese Medlar</VernacularNames>
+  <Locality>France - Herault</Locality>
+  <Content>Leaf</Content>
+  <GPSLocality>
+    <Longitude>3.258363889</Longitude>
+    <Latitude>43.59123611</Latitude>
+    <Altitude>0.0</Altitude>
+  </GPSLocality>
+</Image>
+

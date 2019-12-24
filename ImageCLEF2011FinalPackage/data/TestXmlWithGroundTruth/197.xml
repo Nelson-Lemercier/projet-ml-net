@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>197.jpg</FileName>
+  <Date>1990/03</Date>
+  <Type>photograph</Type>
+  <Organization>Inra</Organization>
+  <Author>Barthelemy Daniel</Author>
+  <IndividualPlantId>405</IndividualPlantId>
+  <Taxon>
+    <Clade3>Angiosperms</Clade3>
+    <Clade2>Magnoliids</Clade2>
+    <Clade1>Magnoliales</Clade1>
+    <Regnum>Plantae</Regnum>
+    <Order>Magnoliales</Order>
+    <Family>Magnoliaceae</Family>
+    <Species>grandiflora</Species>
+    <Genus>Magnolia</Genus>
+  </Taxon>
+  <VernacularNames>Southern Magnolia</VernacularNames>
+  <Locality>Rhone - Lyon</Locality>
+  <Content>Foliage</Content>
+  <GPSLocality>
+    <Longitude>4.834327778</Longitude>
+    <Latitude>45.7673</Latitude>
+    <Altitude>0.0</Altitude>
+  </GPSLocality>
+</Image>
+

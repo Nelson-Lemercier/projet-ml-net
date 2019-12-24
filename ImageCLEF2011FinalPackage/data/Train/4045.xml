@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>4045.jpg</FileName>
+  <Date>19/07/10</Date>
+  <Type>Scan</Type>
+  <Organization>Inra</Organization>
+  <Author>Barthelemy Daniel</Author>
+  <IndividualPlantId>195</IndividualPlantId>
+  <Taxon>
+    <Clade3>Angiosperms</Clade3>
+    <Clade2>Eudicots</Clade2>
+    <Clade1>Rosids</Clade1>
+    <Regnum>Plantae</Regnum>
+    <Order>Rosales</Order>
+    <Family>Rhamnaceae</Family>
+    <Species>spina-christi</Species>
+    <Genus>Paliurus</Genus>
+  </Taxon>
+  <VernacularNames>Jerusalem Thorn</VernacularNames>
+  <Locality>Herault - Montpellier</Locality>
+  <Content>Leaf</Content>
+  <GPSLocality>
+    <Longitude>3.879447222</Longitude>
+    <Latitude>43.608175</Latitude>
+    <Altitude>0.0</Altitude>
+  </GPSLocality>
+</Image>
+

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>2125.jpg</FileName>
+  <Date>28/12/09 14:20</Date>
+  <Type>photograph</Type>
+  <Organization>Inra</Organization>
+  <Author>Barthelemy Daniel</Author>
+  <IndividualPlantId>368</IndividualPlantId>
+  <Taxon>
+    <Clade3>Angiosperms</Clade3>
+    <Clade2>Eudicots</Clade2>
+    <Clade1>Asterids</Clade1>
+    <Regnum>Plantae</Regnum>
+    <Order>Ericales</Order>
+    <Family>Ericaceae</Family>
+    <Species>unedo</Species>
+    <Genus>Arbutus</Genus>
+  </Taxon>
+  <VernacularNames>Strawberry Tree</VernacularNames>
+  <Locality>Corse - Porto pollo</Locality>
+  <Content>Foliage</Content>
+  <GPSLocality>
+    <Longitude>8.798222222</Longitude>
+    <Latitude>41.72804444</Latitude>
+    <Altitude>0.0</Altitude>
+  </GPSLocality>
+</Image>
+

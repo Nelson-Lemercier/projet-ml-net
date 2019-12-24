@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>1108.jpg</FileName>
+  <Date>24/10/10 14:55</Date>
+  <Type>photograph</Type>
+  <Organization>Inra</Organization>
+  <Author>Bonnet Pierre</Author>
+  <IndividualPlantId>365</IndividualPlantId>
+  <Taxon>
+    <Clade3>Angiosperms</Clade3>
+    <Clade2>Eudicots</Clade2>
+    <Clade1>Rosids</Clade1>
+    <Regnum>Plantae</Regnum>
+    <Order>Sapindales</Order>
+    <Family>Sapindaceae</Family>
+    <Species>hippocastanum</Species>
+    <Genus>Aesculus</Genus>
+  </Taxon>
+  <VernacularNames>Horse Chestnut</VernacularNames>
+  <Locality>Herault - Lattes</Locality>
+  <Content>Leaf</Content>
+  <GPSLocality>
+    <Longitude>3.903613889</Longitude>
+    <Latitude>43.56823889</Latitude>
+    <Altitude>0.0</Altitude>
+  </GPSLocality>
+</Image>
+

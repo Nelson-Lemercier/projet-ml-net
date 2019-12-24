@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>4180.jpg</FileName>
+  <Date>27/10/10 19:36</Date>
+  <Type>pseudoscan</Type>
+  <Organization>Inra</Organization>
+  <Author>Bonnet Pierre</Author>
+  <IndividualPlantId>266</IndividualPlantId>
+  <Taxon>
+    <Clade3>Angiosperms</Clade3>
+    <Clade2>Eudicots</Clade2>
+    <Clade1>Rosids</Clade1>
+    <Regnum>Plantae</Regnum>
+    <Order>Sapindales</Order>
+    <Family>Sapindaceae</Family>
+    <Species>monspessulanum</Species>
+    <Genus>Acer</Genus>
+  </Taxon>
+  <VernacularNames>Montpellier Maple</VernacularNames>
+  <Locality>Herault - Montpellier</Locality>
+  <Content>Leaf</Content>
+  <GPSLocality>
+    <Longitude>3.879447222</Longitude>
+    <Latitude>43.608175</Latitude>
+    <Altitude>0.0</Altitude>
+  </GPSLocality>
+</Image>
+

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>5310.jpg</FileName>
+  <Date>14/07/10 22:46</Date>
+  <Type>photograph</Type>
+  <Organization>Inra</Organization>
+  <Author>Bonnet Pierre</Author>
+  <IndividualPlantId>359</IndividualPlantId>
+  <Taxon>
+    <Clade3>Angiosperms</Clade3>
+    <Clade2>Eudicots</Clade2>
+    <Clade1>Asterids</Clade1>
+    <Regnum>Plantae</Regnum>
+    <Order>Apiales</Order>
+    <Family>Pittosporaceae</Family>
+    <Species>tobira</Species>
+    <Genus>Pittosporum</Genus>
+  </Taxon>
+  <VernacularNames>Japanese Mock-orange</VernacularNames>
+  <Locality>Herault - Montpellier</Locality>
+  <Content>Foliage</Content>
+  <GPSLocality>
+    <Longitude>3.879447222</Longitude>
+    <Latitude>43.608175</Latitude>
+    <Altitude>0.0</Altitude>
+  </GPSLocality>
+</Image>
+

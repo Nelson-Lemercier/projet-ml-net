@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>3916.jpg</FileName>
+  <Date>1992/07</Date>
+  <Type>photograph</Type>
+  <Organization>Inra</Organization>
+  <Author>Barthelemy Daniel</Author>
+  <IndividualPlantId>403</IndividualPlantId>
+  <Taxon>
+    <Clade3>Angiosperms</Clade3>
+    <Clade2>Eudicots</Clade2>
+    <Clade1>Rosids</Clade1>
+    <Regnum>Plantae</Regnum>
+    <Order>Fagales</Order>
+    <Family>Juglandaceae</Family>
+    <Species>regia</Species>
+    <Genus>Juglans</Genus>
+  </Taxon>
+  <VernacularNames>Common Walnut</VernacularNames>
+  <Locality>Loiret - Orleans</Locality>
+  <Content>Foliage</Content>
+  <GPSLocality>
+    <Longitude>1.903975</Longitude>
+    <Latitude>47.90138611</Latitude>
+    <Altitude>0.0</Altitude>
+  </GPSLocality>
+</Image>
+

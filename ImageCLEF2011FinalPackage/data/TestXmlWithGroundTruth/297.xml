@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>297.jpg</FileName>
+  <Date>18/06/09</Date>
+  <Type>Scan</Type>
+  <Organization>Tela</Organization>
+  <Author>Cachon Denis</Author>
+  <IndividualPlantId>263</IndividualPlantId>
+  <Taxon>
+    <Clade3>Angiosperms</Clade3>
+    <Clade2>Eudicots</Clade2>
+    <Clade1>Asterids</Clade1>
+    <Regnum>Plantae</Regnum>
+    <Order>Lamiales</Order>
+    <Family>Lamiaceae</Family>
+    <Species>agnus-castus</Species>
+    <Genus>Vitex</Genus>
+  </Taxon>
+  <VernacularNames>chaste Tree</VernacularNames>
+  <Locality>France</Locality>
+  <Content>Leaf</Content>
+  <GPSLocality>
+    <Longitude>2.21375</Longitude>
+    <Latitude>46.22763889</Latitude>
+    <Altitude>0.0</Altitude>
+  </GPSLocality>
+</Image>
+

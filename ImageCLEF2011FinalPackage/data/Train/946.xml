@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>946.jpg</FileName>
+  <Date>16/07/10</Date>
+  <Type>Scan</Type>
+  <Organization>Inra</Organization>
+  <Author>Bonnet Pierre</Author>
+  <IndividualPlantId>205</IndividualPlantId>
+  <Taxon>
+    <Clade3>Angiosperms</Clade3>
+    <Clade2>Eudicots</Clade2>
+    <Clade1>Proteales</Clade1>
+    <Regnum>Plantae</Regnum>
+    <Order>Proteales</Order>
+    <Family>Platanaceae</Family>
+    <Species>x hispanica</Species>
+    <Genus>Platanus</Genus>
+  </Taxon>
+  <VernacularNames>Hybrid Plane</VernacularNames>
+  <Locality>Herault - Montpellier</Locality>
+  <Content>Leaf</Content>
+  <GPSLocality>
+    <Longitude>3.879447222</Longitude>
+    <Latitude>43.608175</Latitude>
+    <Altitude>0.0</Altitude>
+  </GPSLocality>
+</Image>
+

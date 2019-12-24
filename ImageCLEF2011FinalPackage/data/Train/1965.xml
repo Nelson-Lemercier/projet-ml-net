@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>1965.jpg</FileName>
+  <Date>13/06/10 12:05</Date>
+  <Type>photograph</Type>
+  <Organization>Inra</Organization>
+  <Author>Barthelemy Daniel</Author>
+  <IndividualPlantId>373</IndividualPlantId>
+  <Taxon>
+    <Clade3>Angiosperms</Clade3>
+    <Clade2>Eudicots</Clade2>
+    <Clade1>Rosids</Clade1>
+    <Regnum>Plantae</Regnum>
+    <Order>Fagales</Order>
+    <Family>Betulaceae</Family>
+    <Species>avellana</Species>
+    <Genus>Corylus</Genus>
+  </Taxon>
+  <VernacularNames>Common Hazel</VernacularNames>
+  <Locality>Var - Toulon</Locality>
+  <Content>Foliage</Content>
+  <GPSLocality>
+    <Longitude>5.931111111</Longitude>
+    <Latitude>43.12516111</Latitude>
+    <Altitude>0.0</Altitude>
+  </GPSLocality>
+</Image>
+

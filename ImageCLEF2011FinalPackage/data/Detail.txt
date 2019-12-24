@@ -1,0 +1,1116 @@
+"Genus species"    "individual-plants train"  "individual-plants test"  "individual-plants total"
+Acer platanoides    7 3  10
+Rhamnus cathartica    1 0  1
+Olea europaea    6 3  9
+Albizia julibrissin    2 0  2
+Arbutus unedo    10 4  14
+Syringa vulgaris    6 3  9
+Melia azedarach    2 0  2
+Laburnum anagyroides    1 0  1
+Pittosporum tobira    4 2  6
+Acer monspessulanum    7 3  10
+Fraxinus ornus    3 1  4
+Corylus avellana    11 5  16
+Juglans nigra    2 1  3
+Fraxinus angustifolia    4 1  5
+Rhamnus alaternus    4 2  6
+Quercus petraea    1 0  1
+Malus sylvestris    1 0  1
+Fagus sylvatica    2 1  3
+Quercus pubescens    6 2  8
+Cotinus coggygria    2 1  3
+Vitex agnus-castus    6 2  8
+Acer campestre    10 4  14
+Viburnum tinus    6 3  9
+Pistacia terebinthus    3 1  4
+Carpinus betulus    2 0  2
+Acer negundo    2 1  3
+Ficus carica    5 2  7
+Prunus serotina    1 0  1
+Aesculus hippocastanum    6 2  8
+Prunus mahaleb    1 0  1
+Paliurus spina-christi    4 2  6
+Salix caprea    1 0  1
+Rhus typhina    1 0  1
+Viburnum lantana    1 0  1
+Sophora japonica    2 0  2
+Acer opalus    1 0  1
+Tilia cordata    1 0  1
+Platanus x hispanica    5 2  7
+Prunus spinosa    1 0  1
+Crataegus azarolus    2 0  2
+Quercus ilex    8 4  12
+Cornus mas    1 0  1
+Sorbus torminalis    1 0  1
+Ligustrum vulgare    2 0  2
+Fraxinus excelsior    2 0  2
+Nerium oleander    5 2  7
+Celtis australis    10 5  15
+Robinia pseudoacacia    8 3  11
+Sorbus aria    1 0  1
+Gleditsia triacanthos    2 0  2
+Eriobotrya japonica    4 2  6
+Castanea sativa    7 3  10
+Acer pseudoplatanus    1 0  1
+Ailanthus altissima    1 0  1
+Sambucus nigra    2 0  2
+Sorbus domestica    2 0  2
+Quercus coccifera    3 1  4
+Alnus glutinosa    2 1  3
+Ginkgo biloba    8 4  12
+Ilex aquifolium    3 1  4
+Pistacia lentiscus    6 3  9
+Phillyrea angustifolia    1 0  1
+Punica granatum    3 1  4
+Diospyros kaki    4 2  6
+Betula pendula    5 2  7
+Cercis siliquastrum    8 4  12
+Broussonetia papyrifera    3 1  4
+Laurus nobilis    6 3  9
+Juglans regia    5 2  7
+Magnolia grandiflora    4 1  5
+Crataegus monogyna    8 3  11
+    
+Taxon = Acer campestre
+    TRAIN
+        5 author(s)
+                1 individual-plant(s)
+                        4 image(s)
+                4 individual-plant(s)
+                        1 image(s)
+                        28 image(s)
+                        10 image(s)
+                        12 image(s)
+                1 individual-plant(s)
+                        2 image(s)
+                3 individual-plant(s)
+                        1 image(s)
+                        10 image(s)
+                        5 image(s)
+                1 individual-plant(s)
+                        2 image(s)
+    TEST
+        2 author(s)
+                1 individual-plant(s)
+                        5 image(s)
+                3 individual-plant(s)
+                        9 image(s)
+                        1 image(s)
+                        16 image(s)
+    
+Taxon = Acer monspessulanum
+    TRAIN
+        4 author(s)
+                1 individual-plant(s)
+                        20 image(s)
+                4 individual-plant(s)
+                        19 image(s)
+                        15 image(s)
+                        2 image(s)
+                        19 image(s)
+                1 individual-plant(s)
+                        5 image(s)
+                1 individual-plant(s)
+                        1 image(s)
+    TEST
+        3 author(s)
+                1 individual-plant(s)
+                        23 image(s)
+                1 individual-plant(s)
+                        3 image(s)
+                1 individual-plant(s)
+                        19 image(s)
+    
+Taxon = Acer negundo
+    TRAIN
+        2 author(s)
+                1 individual-plant(s)
+                        26 image(s)
+                1 individual-plant(s)
+                        17 image(s)
+    TEST
+        1 author(s)
+                1 individual-plant(s)
+                        21 image(s)
+    
+Taxon = Acer opalus
+    TRAIN
+        1 author(s)
+                1 individual-plant(s)
+                        27 image(s)
+    TEST
+        0 author(s)
+    
+Taxon = Acer platanoides
+    TRAIN
+        2 author(s)
+                5 individual-plant(s)
+                        1 image(s)
+                        2 image(s)
+                        16 image(s)
+                        1 image(s)
+                        12 image(s)
+                2 individual-plant(s)
+                        11 image(s)
+                        8 image(s)
+    TEST
+        2 author(s)
+                2 individual-plant(s)
+                        1 image(s)
+                        1 image(s)
+                1 individual-plant(s)
+                        10 image(s)
+    
+Taxon = Acer pseudoplatanus
+    TRAIN
+        1 author(s)
+                1 individual-plant(s)
+                        4 image(s)
+    TEST
+        0 author(s)
+    
+Taxon = Aesculus hippocastanum
+    TRAIN
+        3 author(s)
+                1 individual-plant(s)
+                        2 image(s)
+                2 individual-plant(s)
+                        26 image(s)
+                        15 image(s)
+                3 individual-plant(s)
+                        2 image(s)
+                        7 image(s)
+                        1 image(s)
+    TEST
+        2 author(s)
+                1 individual-plant(s)
+                        2 image(s)
+                1 individual-plant(s)
+                        2 image(s)
+    
+Taxon = Ailanthus altissima
+    TRAIN
+        1 author(s)
+                1 individual-plant(s)
+                        51 image(s)
+    TEST
+        0 author(s)
+    
+Taxon = Albizia julibrissin
+    TRAIN
+        1 author(s)
+                2 individual-plant(s)
+                        28 image(s)
+                        45 image(s)
+    TEST
+        0 author(s)
+    
+Taxon = Alnus glutinosa
+    TRAIN
+        1 author(s)
+                2 individual-plant(s)
+                        2 image(s)
+                        8 image(s)
+    TEST
+        1 author(s)
+                1 individual-plant(s)
+                        1 image(s)
+    
+Taxon = Arbutus unedo
+    TRAIN
+        4 author(s)
+                5 individual-plant(s)
+                        10 image(s)
+                        11 image(s)
+                        1 image(s)
+                        19 image(s)
+                        6 image(s)
+                2 individual-plant(s)
+                        4 image(s)
+                        3 image(s)
+                2 individual-plant(s)
+                        14 image(s)
+                        8 image(s)
+                1 individual-plant(s)
+                        2 image(s)
+    TEST
+        3 author(s)
+                2 individual-plant(s)
+                        1 image(s)
+                        32 image(s)
+                1 individual-plant(s)
+                        4 image(s)
+                1 individual-plant(s)
+                        5 image(s)
+    
+Taxon = Betula pendula
+    TRAIN
+        3 author(s)
+                1 individual-plant(s)
+                        57 image(s)
+                3 individual-plant(s)
+                        2 image(s)
+                        3 image(s)
+                        10 image(s)
+                1 individual-plant(s)
+                        4 image(s)
+    TEST
+        2 author(s)
+                1 individual-plant(s)
+                        1 image(s)
+                1 individual-plant(s)
+                        3 image(s)
+    
+Taxon = Broussonetia papyrifera
+    TRAIN
+        1 author(s)
+                3 individual-plant(s)
+                        12 image(s)
+                        10 image(s)
+                        25 image(s)
+    TEST
+        1 author(s)
+                1 individual-plant(s)
+                        58 image(s)
+    
+Taxon = Carpinus betulus
+    TRAIN
+        1 author(s)
+                2 individual-plant(s)
+                        33 image(s)
+                        14 image(s)
+    TEST
+        0 author(s)
+    
+Taxon = Castanea sativa
+    TRAIN
+        6 author(s)
+                1 individual-plant(s)
+                        4 image(s)
+                1 individual-plant(s)
+                        1 image(s)
+                1 individual-plant(s)
+                        3 image(s)
+                1 individual-plant(s)
+                        3 image(s)
+                1 individual-plant(s)
+                        1 image(s)
+                2 individual-plant(s)
+                        6 image(s)
+                        11 image(s)
+    TEST
+        3 author(s)
+                1 individual-plant(s)
+                        12 image(s)
+                1 individual-plant(s)
+                        21 image(s)
+                1 individual-plant(s)
+                        12 image(s)
+    
+Taxon = Celtis australis
+    TRAIN
+        4 author(s)
+                1 individual-plant(s)
+                        21 image(s)
+                1 individual-plant(s)
+                        6 image(s)
+                7 individual-plant(s)
+                        3 image(s)
+                        6 image(s)
+                        22 image(s)
+                        7 image(s)
+                        23 image(s)
+                        3 image(s)
+                        9 image(s)
+                1 individual-plant(s)
+                        3 image(s)
+    TEST
+        4 author(s)
+                2 individual-plant(s)
+                        7 image(s)
+                        13 image(s)
+                1 individual-plant(s)
+                        7 image(s)
+                1 individual-plant(s)
+                        3 image(s)
+                1 individual-plant(s)
+                        7 image(s)
+    
+Taxon = Cercis siliquastrum
+    TRAIN
+        5 author(s)
+                3 individual-plant(s)
+                        7 image(s)
+                        22 image(s)
+                        11 image(s)
+                1 individual-plant(s)
+                        19 image(s)
+                2 individual-plant(s)
+                        8 image(s)
+                        10 image(s)
+                1 individual-plant(s)
+                        3 image(s)
+                1 individual-plant(s)
+                        12 image(s)
+    TEST
+        3 author(s)
+                2 individual-plant(s)
+                        11 image(s)
+                        9 image(s)
+                1 individual-plant(s)
+                        20 image(s)
+                1 individual-plant(s)
+                        21 image(s)
+    
+Taxon = Cornus mas
+    TRAIN
+        1 author(s)
+                1 individual-plant(s)
+                        35 image(s)
+    TEST
+        0 author(s)
+    
+Taxon = Corylus avellana
+    TRAIN
+        6 author(s)
+                1 individual-plant(s)
+                        12 image(s)
+                4 individual-plant(s)
+                        19 image(s)
+                        19 image(s)
+                        19 image(s)
+                        3 image(s)
+                1 individual-plant(s)
+                        3 image(s)
+                1 individual-plant(s)
+                        3 image(s)
+                1 individual-plant(s)
+                        1 image(s)
+                3 individual-plant(s)
+                        1 image(s)
+                        6 image(s)
+                        3 image(s)
+    TEST
+        4 author(s)
+                2 individual-plant(s)
+                        16 image(s)
+                        1 image(s)
+                1 individual-plant(s)
+                        3 image(s)
+                1 individual-plant(s)
+                        13 image(s)
+                1 individual-plant(s)
+                        4 image(s)
+    
+Taxon = Cotinus coggygria
+    TRAIN
+        1 author(s)
+                2 individual-plant(s)
+                        64 image(s)
+                        17 image(s)
+    TEST
+        1 author(s)
+                1 individual-plant(s)
+                        29 image(s)
+    
+Taxon = Crataegus azarolus
+    TRAIN
+        1 author(s)
+                2 individual-plant(s)
+                        38 image(s)
+                        43 image(s)
+    TEST
+        0 author(s)
+    
+Taxon = Crataegus monogyna
+    TRAIN
+        5 author(s)
+                1 individual-plant(s)
+                        6 image(s)
+                3 individual-plant(s)
+                        1 image(s)
+                        22 image(s)
+                        14 image(s)
+                1 individual-plant(s)
+                        2 image(s)
+                1 individual-plant(s)
+                        5 image(s)
+                2 individual-plant(s)
+                        8 image(s)
+                        2 image(s)
+    TEST
+        3 author(s)
+                1 individual-plant(s)
+                        16 image(s)
+                1 individual-plant(s)
+                        35 image(s)
+                1 individual-plant(s)
+                        3 image(s)
+    
+Taxon = Diospyros kaki
+    TRAIN
+        2 author(s)
+                1 individual-plant(s)
+                        6 image(s)
+                3 individual-plant(s)
+                        21 image(s)
+                        16 image(s)
+                        30 image(s)
+    TEST
+        1 author(s)
+                2 individual-plant(s)
+                        29 image(s)
+                        7 image(s)
+    
+Taxon = Eriobotrya japonica
+    TRAIN
+        3 author(s)
+                1 individual-plant(s)
+                        4 image(s)
+                1 individual-plant(s)
+                        14 image(s)
+                2 individual-plant(s)
+                        16 image(s)
+                        14 image(s)
+    TEST
+        2 author(s)
+                1 individual-plant(s)
+                        21 image(s)
+                1 individual-plant(s)
+                        23 image(s)
+    
+Taxon = Fagus sylvatica
+    TRAIN
+        1 author(s)
+                2 individual-plant(s)
+                        28 image(s)
+                        21 image(s)
+    TEST
+        1 author(s)
+                1 individual-plant(s)
+                        3 image(s)
+    
+Taxon = Ficus carica
+    TRAIN
+        1 author(s)
+                5 individual-plant(s)
+                        6 image(s)
+                        24 image(s)
+                        13 image(s)
+                        3 image(s)
+                        13 image(s)
+    TEST
+        2 author(s)
+                1 individual-plant(s)
+                        1 image(s)
+                1 individual-plant(s)
+                        19 image(s)
+    
+Taxon = Fraxinus angustifolia
+    TRAIN
+        3 author(s)
+                1 individual-plant(s)
+                        43 image(s)
+                2 individual-plant(s)
+                        11 image(s)
+                        17 image(s)
+                1 individual-plant(s)
+                        20 image(s)
+    TEST
+        1 author(s)
+                1 individual-plant(s)
+                        30 image(s)
+    
+Taxon = Fraxinus excelsior
+    TRAIN
+        2 author(s)
+                1 individual-plant(s)
+                        3 image(s)
+                1 individual-plant(s)
+                        6 image(s)
+    TEST
+        0 author(s)
+    
+Taxon = Fraxinus ornus
+    TRAIN
+        2 author(s)
+                2 individual-plant(s)
+                        22 image(s)
+                        1 image(s)
+                1 individual-plant(s)
+                        11 image(s)
+    TEST
+        1 author(s)
+                1 individual-plant(s)
+                        21 image(s)
+    
+Taxon = Ginkgo biloba
+    TRAIN
+        5 author(s)
+                1 individual-plant(s)
+                        1 image(s)
+                1 individual-plant(s)
+                        5 image(s)
+                4 individual-plant(s)
+                        16 image(s)
+                        24 image(s)
+                        10 image(s)
+                        11 image(s)
+                1 individual-plant(s)
+                        10 image(s)
+                1 individual-plant(s)
+                        3 image(s)
+    TEST
+        3 author(s)
+                1 individual-plant(s)
+                        3 image(s)
+                2 individual-plant(s)
+                        9 image(s)
+                        50 image(s)
+                1 individual-plant(s)
+                        3 image(s)
+    
+Taxon = Gleditsia triacanthos
+    TRAIN
+        1 author(s)
+                2 individual-plant(s)
+                        32 image(s)
+                        20 image(s)
+    TEST
+        0 author(s)
+    
+Taxon = Ilex aquifolium
+    TRAIN
+        2 author(s)
+                1 individual-plant(s)
+                        1 image(s)
+                2 individual-plant(s)
+                        40 image(s)
+                        35 image(s)
+    TEST
+        1 author(s)
+                1 individual-plant(s)
+                        26 image(s)
+    
+Taxon = Juglans nigra
+    TRAIN
+        2 author(s)
+                1 individual-plant(s)
+                        6 image(s)
+                1 individual-plant(s)
+                        16 image(s)
+    TEST
+        1 author(s)
+                1 individual-plant(s)
+                        22 image(s)
+    
+Taxon = Juglans regia
+    TRAIN
+        5 author(s)
+                1 individual-plant(s)
+                        2 image(s)
+                1 individual-plant(s)
+                        1 image(s)
+                1 individual-plant(s)
+                        14 image(s)
+                1 individual-plant(s)
+                        1 image(s)
+                1 individual-plant(s)
+                        14 image(s)
+    TEST
+        2 author(s)
+                1 individual-plant(s)
+                        3 image(s)
+                1 individual-plant(s)
+                        1 image(s)
+    
+Taxon = Laburnum anagyroides
+    TRAIN
+        1 author(s)
+                1 individual-plant(s)
+                        30 image(s)
+    TEST
+        0 author(s)
+    
+Taxon = Laurus nobilis
+    TRAIN
+        4 author(s)
+                2 individual-plant(s)
+                        20 image(s)
+                        5 image(s)
+                1 individual-plant(s)
+                        6 image(s)
+                2 individual-plant(s)
+                        9 image(s)
+                        13 image(s)
+                1 individual-plant(s)
+                        1 image(s)
+    TEST
+        3 author(s)
+                1 individual-plant(s)
+                        33 image(s)
+                1 individual-plant(s)
+                        16 image(s)
+                1 individual-plant(s)
+                        6 image(s)
+    
+Taxon = Ligustrum vulgare
+    TRAIN
+        2 author(s)
+                1 individual-plant(s)
+                        26 image(s)
+                1 individual-plant(s)
+                        1 image(s)
+    TEST
+        0 author(s)
+    
+Taxon = Magnolia grandiflora
+    TRAIN
+        1 author(s)
+                4 individual-plant(s)
+                        23 image(s)
+                        11 image(s)
+                        25 image(s)
+                        9 image(s)
+    TEST
+        1 author(s)
+                1 individual-plant(s)
+                        2 image(s)
+    
+Taxon = Malus sylvestris
+    TRAIN
+        1 author(s)
+                1 individual-plant(s)
+                        17 image(s)
+    TEST
+        0 author(s)
+    
+Taxon = Melia azedarach
+    TRAIN
+        1 author(s)
+                2 individual-plant(s)
+                        41 image(s)
+                        6 image(s)
+    TEST
+        0 author(s)
+    
+Taxon = Nerium oleander
+    TRAIN
+        1 author(s)
+                5 individual-plant(s)
+                        88 image(s)
+                        10 image(s)
+                        6 image(s)
+                        22 image(s)
+                        16 image(s)
+    TEST
+        2 author(s)
+                1 individual-plant(s)
+                        4 image(s)
+                1 individual-plant(s)
+                        9 image(s)
+    
+Taxon = Olea europaea
+    TRAIN
+        3 author(s)
+                2 individual-plant(s)
+                        16 image(s)
+                        8 image(s)
+                1 individual-plant(s)
+                        17 image(s)
+                3 individual-plant(s)
+                        84 image(s)
+                        11 image(s)
+                        12 image(s)
+    TEST
+        3 author(s)
+                1 individual-plant(s)
+                        16 image(s)
+                1 individual-plant(s)
+                        6 image(s)
+                1 individual-plant(s)
+                        19 image(s)
+    
+Taxon = Paliurus spina-christi
+    TRAIN
+        4 author(s)
+                1 individual-plant(s)
+                        23 image(s)
+                1 individual-plant(s)
+                        1 image(s)
+                1 individual-plant(s)
+                        8 image(s)
+                1 individual-plant(s)
+                        34 image(s)
+    TEST
+        2 author(s)
+                1 individual-plant(s)
+                        6 image(s)
+                1 individual-plant(s)
+                        1 image(s)
+    
+Taxon = Phillyrea angustifolia
+    TRAIN
+        1 author(s)
+                1 individual-plant(s)
+                        15 image(s)
+    TEST
+        0 author(s)
+    
+Taxon = Pistacia lentiscus
+    TRAIN
+        3 author(s)
+                3 individual-plant(s)
+                        13 image(s)
+                        16 image(s)
+                        2 image(s)
+                1 individual-plant(s)
+                        12 image(s)
+                2 individual-plant(s)
+                        20 image(s)
+                        10 image(s)
+    TEST
+        2 author(s)
+                1 individual-plant(s)
+                        5 image(s)
+                2 individual-plant(s)
+                        36 image(s)
+                        39 image(s)
+    
+Taxon = Pistacia terebinthus
+    TRAIN
+        2 author(s)
+                1 individual-plant(s)
+                        26 image(s)
+                2 individual-plant(s)
+                        21 image(s)
+                        35 image(s)
+    TEST
+        1 author(s)
+                1 individual-plant(s)
+                        1 image(s)
+    
+Taxon = Pittosporum tobira
+    TRAIN
+        2 author(s)
+                1 individual-plant(s)
+                        1 image(s)
+                3 individual-plant(s)
+                        67 image(s)
+                        11 image(s)
+                        27 image(s)
+    TEST
+        2 author(s)
+                1 individual-plant(s)
+                        58 image(s)
+                1 individual-plant(s)
+                        16 image(s)
+    
+Taxon = Platanus x hispanica
+    TRAIN
+        1 author(s)
+                5 individual-plant(s)
+                        49 image(s)
+                        16 image(s)
+                        16 image(s)
+                        11 image(s)
+                        7 image(s)
+    TEST
+        2 author(s)
+                1 individual-plant(s)
+                        9 image(s)
+                1 individual-plant(s)
+                        7 image(s)
+    
+Taxon = Prunus mahaleb
+    TRAIN
+        1 author(s)
+                1 individual-plant(s)
+                        49 image(s)
+    TEST
+        0 author(s)
+    
+Taxon = Prunus serotina
+    TRAIN
+        1 author(s)
+                1 individual-plant(s)
+                        24 image(s)
+    TEST
+        0 author(s)
+    
+Taxon = Prunus spinosa
+    TRAIN
+        1 author(s)
+                1 individual-plant(s)
+                        16 image(s)
+    TEST
+        0 author(s)
+    
+Taxon = Punica granatum
+    TRAIN
+        2 author(s)
+                1 individual-plant(s)
+                        6 image(s)
+                2 individual-plant(s)
+                        38 image(s)
+                        30 image(s)
+    TEST
+        1 author(s)
+                1 individual-plant(s)
+                        15 image(s)
+    
+Taxon = Quercus coccifera
+    TRAIN
+        3 author(s)
+                1 individual-plant(s)
+                        7 image(s)
+                1 individual-plant(s)
+                        23 image(s)
+                1 individual-plant(s)
+                        9 image(s)
+    TEST
+        1 author(s)
+                1 individual-plant(s)
+                        33 image(s)
+    
+Taxon = Quercus ilex
+    TRAIN
+        5 author(s)
+                2 individual-plant(s)
+                        39 image(s)
+                        1 image(s)
+                1 individual-plant(s)
+                        10 image(s)
+                3 individual-plant(s)
+                        47 image(s)
+                        12 image(s)
+                        34 image(s)
+                1 individual-plant(s)
+                        4 image(s)
+                1 individual-plant(s)
+                        23 image(s)
+    TEST
+        3 author(s)
+                1 individual-plant(s)
+                        13 image(s)
+                2 individual-plant(s)
+                        29 image(s)
+                        30 image(s)
+                1 individual-plant(s)
+                        5 image(s)
+    
+Taxon = Quercus petraea
+    TRAIN
+        1 author(s)
+                1 individual-plant(s)
+                        14 image(s)
+    TEST
+        0 author(s)
+    
+Taxon = Quercus pubescens
+    TRAIN
+        2 author(s)
+                3 individual-plant(s)
+                        15 image(s)
+                        9 image(s)
+                        1 image(s)
+                3 individual-plant(s)
+                        17 image(s)
+                        10 image(s)
+                        3 image(s)
+    TEST
+        1 author(s)
+                2 individual-plant(s)
+                        18 image(s)
+                        41 image(s)
+    
+Taxon = Rhamnus alaternus
+    TRAIN
+        4 author(s)
+                1 individual-plant(s)
+                        1 image(s)
+                1 individual-plant(s)
+                        10 image(s)
+                1 individual-plant(s)
+                        1 image(s)
+                1 individual-plant(s)
+                        44 image(s)
+    TEST
+        2 author(s)
+                1 individual-plant(s)
+                        27 image(s)
+                1 individual-plant(s)
+                        25 image(s)
+    
+Taxon = Rhamnus cathartica
+    TRAIN
+        1 author(s)
+                1 individual-plant(s)
+                        27 image(s)
+    TEST
+        0 author(s)
+    
+Taxon = Rhus typhina
+    TRAIN
+        1 author(s)
+                1 individual-plant(s)
+                        54 image(s)
+    TEST
+        0 author(s)
+    
+Taxon = Robinia pseudoacacia
+    TRAIN
+        5 author(s)
+                2 individual-plant(s)
+                        3 image(s)
+                        7 image(s)
+                2 individual-plant(s)
+                        6 image(s)
+                        27 image(s)
+                1 individual-plant(s)
+                        8 image(s)
+                2 individual-plant(s)
+                        2 image(s)
+                        2 image(s)
+                1 individual-plant(s)
+                        10 image(s)
+    TEST
+        2 author(s)
+                2 individual-plant(s)
+                        5 image(s)
+                        18 image(s)
+                1 individual-plant(s)
+                        3 image(s)
+    
+Taxon = Salix caprea
+    TRAIN
+        1 author(s)
+                1 individual-plant(s)
+                        26 image(s)
+    TEST
+        0 author(s)
+    
+Taxon = Sambucus nigra
+    TRAIN
+        1 author(s)
+                2 individual-plant(s)
+                        9 image(s)
+                        27 image(s)
+    TEST
+        0 author(s)
+    
+Taxon = Sophora japonica
+    TRAIN
+        1 author(s)
+                2 individual-plant(s)
+                        32 image(s)
+                        5 image(s)
+    TEST
+        0 author(s)
+    
+Taxon = Sorbus aria
+    TRAIN
+        1 author(s)
+                1 individual-plant(s)
+                        20 image(s)
+    TEST
+        0 author(s)
+    
+Taxon = Sorbus domestica
+    TRAIN
+        2 author(s)
+                1 individual-plant(s)
+                        15 image(s)
+                1 individual-plant(s)
+                        6 image(s)
+    TEST
+        0 author(s)
+    
+Taxon = Sorbus torminalis
+    TRAIN
+        1 author(s)
+                1 individual-plant(s)
+                        22 image(s)
+    TEST
+        0 author(s)
+    
+Taxon = Syringa vulgaris
+    TRAIN
+        6 author(s)
+                1 individual-plant(s)
+                        34 image(s)
+                1 individual-plant(s)
+                        3 image(s)
+                1 individual-plant(s)
+                        1 image(s)
+                1 individual-plant(s)
+                        1 image(s)
+                1 individual-plant(s)
+                        11 image(s)
+                1 individual-plant(s)
+                        1 image(s)
+    TEST
+        3 author(s)
+                1 individual-plant(s)
+                        5 image(s)
+                1 individual-plant(s)
+                        12 image(s)
+                1 individual-plant(s)
+                        3 image(s)
+    
+Taxon = Tilia cordata
+    TRAIN
+        1 author(s)
+                1 individual-plant(s)
+                        23 image(s)
+    TEST
+        0 author(s)
+    
+Taxon = Viburnum lantana
+    TRAIN
+        1 author(s)
+                1 individual-plant(s)
+                        17 image(s)
+    TEST
+        0 author(s)
+    
+Taxon = Viburnum tinus
+    TRAIN
+        4 author(s)
+                1 individual-plant(s)
+                        29 image(s)
+                2 individual-plant(s)
+                        4 image(s)
+                        12 image(s)
+                2 individual-plant(s)
+                        1 image(s)
+                        41 image(s)
+                1 individual-plant(s)
+                        2 image(s)
+    TEST
+        2 author(s)
+                2 individual-plant(s)
+                        90 image(s)
+                        13 image(s)
+                1 individual-plant(s)
+                        4 image(s)
+    
+Taxon = Vitex agnus-castus
+    TRAIN
+        4 author(s)
+                1 individual-plant(s)
+                        10 image(s)
+                3 individual-plant(s)
+                        5 image(s)
+                        10 image(s)
+                        37 image(s)
+                1 individual-plant(s)
+                        3 image(s)
+                1 individual-plant(s)
+                        37 image(s)
+    TEST
+        2 author(s)
+                1 individual-plant(s)
+                        8 image(s)
+                1 individual-plant(s)
+                        2 image(s)

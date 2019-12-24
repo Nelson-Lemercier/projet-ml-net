@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>2649.jpg</FileName>
+  <Date>06/06/09</Date>
+  <Type>Scan</Type>
+  <Organization>Tela</Organization>
+  <Author>Larbouillat Annick</Author>
+  <IndividualPlantId>244</IndividualPlantId>
+  <Taxon>
+    <Clade3>Angiosperms</Clade3>
+    <Clade2>Eudicots</Clade2>
+    <Clade1>Asterids</Clade1>
+    <Regnum>Plantae</Regnum>
+    <Order>Lamiales</Order>
+    <Family>Oleaceae</Family>
+    <Species>vulgaris</Species>
+    <Genus>Syringa</Genus>
+  </Taxon>
+  <VernacularNames>Common Lilac</VernacularNames>
+  <Locality>France - Paris region</Locality>
+  <Content>Leaf</Content>
+  <GPSLocality>
+    <Longitude>2.350986111</Longitude>
+    <Latitude>48.85666667</Latitude>
+    <Altitude>0.0</Altitude>
+  </GPSLocality>
+</Image>
+

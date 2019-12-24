@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>2816.jpg</FileName>
+  <Date>09/11/10 19:25</Date>
+  <Type>photograph</Type>
+  <Organization>Inra</Organization>
+  <Author>Bonnet Pierre</Author>
+  <IndividualPlantId>353</IndividualPlantId>
+  <Taxon>
+    <Clade3>Angiosperms</Clade3>
+    <Clade2>Eudicots</Clade2>
+    <Clade1>Rosids</Clade1>
+    <Regnum>Plantae</Regnum>
+    <Order>Fagales</Order>
+    <Family>Fagaceae</Family>
+    <Species>coccifera</Species>
+    <Genus>Quercus</Genus>
+  </Taxon>
+  <VernacularNames>Kermes Oak</VernacularNames>
+  <Locality>Herault - Montpellier</Locality>
+  <Content>Foliage</Content>
+  <GPSLocality>
+    <Longitude>3.879447222</Longitude>
+    <Latitude>43.608175</Latitude>
+    <Altitude>0.0</Altitude>
+  </GPSLocality>
+</Image>
+

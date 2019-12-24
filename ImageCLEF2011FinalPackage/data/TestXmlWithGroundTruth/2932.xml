@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>2932.jpg</FileName>
+  <Date>24/08/09</Date>
+  <Type>Scan</Type>
+  <Organization>Tela</Organization>
+  <Author>Larbouillat Annick</Author>
+  <IndividualPlantId>193</IndividualPlantId>
+  <Taxon>
+    <Clade3>Angiosperms</Clade3>
+    <Clade2>Eudicots</Clade2>
+    <Clade1>Rosids</Clade1>
+    <Regnum>Plantae</Regnum>
+    <Order>Rosales</Order>
+    <Family>Rhamnaceae</Family>
+    <Species>spina-christi</Species>
+    <Genus>Paliurus</Genus>
+  </Taxon>
+  <VernacularNames>Jerusalem Thorn</VernacularNames>
+  <Locality>France - Paris region</Locality>
+  <Content>Leaf</Content>
+  <GPSLocality>
+    <Longitude>2.350986111</Longitude>
+    <Latitude>48.85666667</Latitude>
+    <Altitude>0.0</Altitude>
+  </GPSLocality>
+</Image>
+

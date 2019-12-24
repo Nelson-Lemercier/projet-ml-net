@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>3546.jpg</FileName>
+  <Date>15/07/10</Date>
+  <Type>Scan</Type>
+  <Organization>UM2</Organization>
+  <Author>Heinz Christine</Author>
+  <IndividualPlantId>143</IndividualPlantId>
+  <Taxon>
+    <Clade3>Angiosperms</Clade3>
+    <Clade2>Eudicots</Clade2>
+    <Clade1>Rosids</Clade1>
+    <Regnum>Plantae</Regnum>
+    <Order>Rosales</Order>
+    <Family>Rosaceae</Family>
+    <Species>monogyna</Species>
+    <Genus>Crataegus</Genus>
+  </Taxon>
+  <VernacularNames>Hawthorn</VernacularNames>
+  <Locality>France - Herault</Locality>
+  <Content>Leaf</Content>
+  <GPSLocality>
+    <Longitude>3.258363889</Longitude>
+    <Latitude>43.59123611</Latitude>
+    <Altitude>0.0</Altitude>
+  </GPSLocality>
+</Image>
+

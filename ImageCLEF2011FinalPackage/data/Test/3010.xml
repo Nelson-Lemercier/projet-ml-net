@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>3010.jpg</FileName>
+  <Date>29/08/10</Date>
+  <Type>Scan</Type>
+  <Organization>Inra</Organization>
+  <Author>Bonnet Pierre</Author>
+  <Locality>Oriental Pyrenees - Prades</Locality>
+  <Content>Leaf</Content>
+  <GPSLocality>
+    <Longitude>2.421475</Longitude>
+    <Latitude>42.61599167</Latitude>
+    <Altitude>0.0</Altitude>
+  </GPSLocality>
+</Image>
+

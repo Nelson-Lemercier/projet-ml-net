@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>1729.jpg</FileName>
+  <Date>26/10/10 18:24</Date>
+  <Type>pseudoscan</Type>
+  <Organization>Inra</Organization>
+  <Author>Bonnet Pierre</Author>
+  <IndividualPlantId>274</IndividualPlantId>
+  <Taxon>
+    <Clade3>Angiosperms</Clade3>
+    <Clade2>Eudicots</Clade2>
+    <Clade1>Rosids</Clade1>
+    <Regnum>Plantae</Regnum>
+    <Order>Rosales</Order>
+    <Family>Cannabaceae</Family>
+    <Species>australis</Species>
+    <Genus>Celtis</Genus>
+  </Taxon>
+  <VernacularNames>European Nettle Tree</VernacularNames>
+  <Locality>Herault - Montpellier</Locality>
+  <Content>Leaf</Content>
+  <GPSLocality>
+    <Longitude>3.879447222</Longitude>
+    <Latitude>43.608175</Latitude>
+    <Altitude>0.0</Altitude>
+  </GPSLocality>
+</Image>
+

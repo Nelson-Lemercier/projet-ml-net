@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>1954.jpg</FileName>
+  <Date>30/11/99</Date>
+  <Type>photograph</Type>
+  <Organization>Inra</Organization>
+  <Author>Barthelemy Daniel</Author>
+  <IndividualPlantId>380</IndividualPlantId>
+  <Taxon>
+    <Clade3>Angiosperms</Clade3>
+    <Clade2>Eudicots</Clade2>
+    <Clade1>Asterids</Clade1>
+    <Regnum>Plantae</Regnum>
+    <Order>Dipsacales</Order>
+    <Family>Adoxaceae</Family>
+    <Species>nigra</Species>
+    <Genus>Sambucus</Genus>
+  </Taxon>
+  <VernacularNames>Black Elder</VernacularNames>
+  <Locality>Isere - Tullins</Locality>
+  <Content>Foliage</Content>
+  <GPSLocality>
+    <Longitude>5.483733333</Longitude>
+    <Latitude>45.29840833</Latitude>
+    <Altitude>0.0</Altitude>
+  </GPSLocality>
+</Image>
+

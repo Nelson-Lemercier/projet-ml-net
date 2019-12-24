@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>4561.jpg</FileName>
+  <Date>1989/05</Date>
+  <Type>photograph</Type>
+  <Organization>Inra</Organization>
+  <Author>Barthelemy Daniel</Author>
+  <IndividualPlantId>397</IndividualPlantId>
+  <Taxon>
+    <Clade3>Angiosperms</Clade3>
+    <Clade2>Eudicots</Clade2>
+    <Clade1>Asterids</Clade1>
+    <Regnum>Plantae</Regnum>
+    <Order>Lamiales</Order>
+    <Family>Oleaceae</Family>
+    <Species>excelsior</Species>
+    <Genus>Fraxinus</Genus>
+  </Taxon>
+  <VernacularNames>European Ash</VernacularNames>
+  <Locality>Isere - Saint Pierre de Chartreuse, Col du Coq</Locality>
+  <Content>Foliage</Content>
+  <GPSLocality>
+    <Longitude>5.813891667</Longitude>
+    <Latitude>45.34205556</Latitude>
+    <Altitude>0.0</Altitude>
+  </GPSLocality>
+</Image>
+

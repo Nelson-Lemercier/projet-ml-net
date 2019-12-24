@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>3643.jpg</FileName>
+  <Date>22/02/11 02:17</Date>
+  <Type>pseudoscan</Type>
+  <Organization>Inra</Organization>
+  <Author>Bonnet Pierre</Author>
+  <IndividualPlantId>419</IndividualPlantId>
+  <Taxon>
+    <Clade3>Angiosperms</Clade3>
+    <Clade2>Eudicots</Clade2>
+    <Clade1>Rosids</Clade1>
+    <Regnum>Plantae</Regnum>
+    <Order>Sapindales</Order>
+    <Family>Sapindaceae</Family>
+    <Species>monspessulanum</Species>
+    <Genus>Acer</Genus>
+  </Taxon>
+  <VernacularNames>Montpellier Maple</VernacularNames>
+  <Locality>Germany - Berlin</Locality>
+  <Content>Dead leaf</Content>
+  <GPSLocality>
+    <Longitude>13.4114</Longitude>
+    <Latitude>52.52340556</Latitude>
+    <Altitude>0.0</Altitude>
+  </GPSLocality>
+</Image>
+

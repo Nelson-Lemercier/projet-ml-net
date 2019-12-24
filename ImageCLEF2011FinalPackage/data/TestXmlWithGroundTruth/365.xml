@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>365.jpg</FileName>
+  <Date>13/06/10 11:40</Date>
+  <Type>photograph</Type>
+  <Organization>Inra</Organization>
+  <Author>Barthelemy Daniel</Author>
+  <IndividualPlantId>377</IndividualPlantId>
+  <Taxon>
+    <Clade3>Angiosperms</Clade3>
+    <Clade2>Eudicots</Clade2>
+    <Clade1>Asterids</Clade1>
+    <Regnum>Plantae</Regnum>
+    <Order>Apiales</Order>
+    <Family>Pittosporaceae</Family>
+    <Species>tobira</Species>
+    <Genus>Pittosporum</Genus>
+  </Taxon>
+  <VernacularNames>Japanese Mock-orange</VernacularNames>
+  <Locality>Var - Toulon</Locality>
+  <Content>Leaf</Content>
+  <GPSLocality>
+    <Longitude>5.931111111</Longitude>
+    <Latitude>43.12516111</Latitude>
+    <Altitude>0.0</Altitude>
+  </GPSLocality>
+</Image>
+

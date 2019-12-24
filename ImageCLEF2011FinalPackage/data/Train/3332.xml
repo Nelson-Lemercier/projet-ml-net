@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>3332.jpg</FileName>
+  <Date>30/07/09</Date>
+  <Type>Scan</Type>
+  <Organization>Tela</Organization>
+  <Author>Larbouillat Annick</Author>
+  <IndividualPlantId>130</IndividualPlantId>
+  <Taxon>
+    <Clade3>Angiosperms</Clade3>
+    <Clade2>Eudicots</Clade2>
+    <Clade1>Rosids</Clade1>
+    <Regnum>Plantae</Regnum>
+    <Order>Fagales</Order>
+    <Family>Betulaceae</Family>
+    <Species>avellana</Species>
+    <Genus>Corylus</Genus>
+  </Taxon>
+  <VernacularNames>Common Hazel</VernacularNames>
+  <Locality>Paris region - Point12</Locality>
+  <Content>Leaf</Content>
+  <GPSLocality>
+    <Longitude>2.723916667</Longitude>
+    <Latitude>48.79156944</Latitude>
+    <Altitude>0.0</Altitude>
+  </GPSLocality>
+</Image>
+

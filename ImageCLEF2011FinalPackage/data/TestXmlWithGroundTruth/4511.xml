@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>4511.jpg</FileName>
+  <Date>13/06/10 11:45</Date>
+  <Type>photograph</Type>
+  <Organization>Inra</Organization>
+  <Author>Barthelemy Daniel</Author>
+  <IndividualPlantId>374</IndividualPlantId>
+  <Taxon>
+    <Clade3>Angiosperms</Clade3>
+    <Clade2>Magnoliids</Clade2>
+    <Clade1>Laurales</Clade1>
+    <Regnum>Plantae</Regnum>
+    <Order>Laurales</Order>
+    <Family>Lauraceae</Family>
+    <Species>nobilis</Species>
+    <Genus>Laurus</Genus>
+  </Taxon>
+  <VernacularNames>Laurel Tree</VernacularNames>
+  <Locality>Var - Toulon</Locality>
+  <Content>Foliage</Content>
+  <GPSLocality>
+    <Longitude>5.931111111</Longitude>
+    <Latitude>43.12516111</Latitude>
+    <Altitude>0.0</Altitude>
+  </GPSLocality>
+</Image>
+

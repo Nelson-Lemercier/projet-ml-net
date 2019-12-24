@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>1964.jpg</FileName>
+  <Date>18/10/10</Date>
+  <Type>Scan</Type>
+  <Organization>Inra</Organization>
+  <Author>Bonnet Pierre</Author>
+  <IndividualPlantId>83</IndividualPlantId>
+  <Taxon>
+    <Clade3>Angiosperms</Clade3>
+    <Clade2>Eudicots</Clade2>
+    <Clade1>Rosids</Clade1>
+    <Regnum>Plantae</Regnum>
+    <Order>Fabales</Order>
+    <Family>Fabaceae</Family>
+    <Species>julibrissin</Species>
+    <Genus>Albizia</Genus>
+  </Taxon>
+  <VernacularNames>Persian Silk Tree</VernacularNames>
+  <Locality>Herault - Lattes</Locality>
+  <Content>Leaf</Content>
+  <GPSLocality>
+    <Longitude>3.903613889</Longitude>
+    <Latitude>43.56823889</Latitude>
+    <Altitude>0.0</Altitude>
+  </GPSLocality>
+</Image>
+

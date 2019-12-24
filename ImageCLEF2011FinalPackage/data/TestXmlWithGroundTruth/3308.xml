@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>3308.jpg</FileName>
+  <Date>24/10/10 14:20</Date>
+  <Type>pseudoscan</Type>
+  <Organization>Inra</Organization>
+  <Author>Bonnet Pierre</Author>
+  <IndividualPlantId>281</IndividualPlantId>
+  <Taxon>
+    <Clade3>Angiosperms</Clade3>
+    <Clade2>Eudicots</Clade2>
+    <Clade1>Rosids</Clade1>
+    <Regnum>Plantae</Regnum>
+    <Order>Rosales</Order>
+    <Family>Moraceae</Family>
+    <Species>carica</Species>
+    <Genus>Ficus</Genus>
+  </Taxon>
+  <VernacularNames>Common Fig</VernacularNames>
+  <Locality>Herault - Lattes</Locality>
+  <Content>Leaf</Content>
+  <GPSLocality>
+    <Longitude>3.903613889</Longitude>
+    <Latitude>43.56823889</Latitude>
+    <Altitude>0.0</Altitude>
+  </GPSLocality>
+</Image>
+

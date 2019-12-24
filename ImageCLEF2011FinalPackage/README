@@ -1,0 +1,206 @@
+Overview of the ImageCLEF2011 Plant task package
+
+Author: Hervé Goëau and Alexis Joly
+Contact: herve.goeau@inria.fr, alexis.joly@inria.fr
+Last update: 12/20/11
+
+This package contains information and data dedicated to the evaluation of content-based plant 
+identification systems, as run within ImageCLEF 2011 plant retrieval task 
+(http://www.imageclef.org/2011/plants). 
+
+This file: 
+1. presents the plant identification task, 
+2. describes the content of the package,
+3. describes the run file generation,
+4. explains how the scores are computed,
+5. and how to obtain scores with the executable jar ImageCLEFPlantTaskScores.jar
+
+----------------------------------------------------------------------------------------------------
+1. The ImageCLEF2011 plant identification task
+----------------------------------------------------------------------------------------------------
+
+This first year pilot task is focused on tree species identification based on leaf images. Leaves 
+are far from being the only discriminant key between tree species but they have the advantage to be 
+easily observable and the most studied organ in the computer vision community. 
+The task is organized as a classification task over 71 tree species with visual content being the 
+main available information. Additional information only includes contextual meta-data (author, date,
+locality name) and some EXIF data. Three types of image content are considered: 
+- leaf scans, 
+- leaf pictures with a white uniform background (referred as scan-like pictures),
+- leaf pictures in natural conditions (taken on the tree).
+The main originality of this data is that it was specifically built through a citizen sciences 
+initiative conducted by Telabotanica, a French social network of amateur and expert botanists. This 
+makes the task closer to the conditions of a real-world application: 
+(i) leaves of the same species are coming from distinct trees living in distinct areas 
+(ii) pictures and scans are taken by different users that might not used the same protocol to 
+collect the leaves and/or acquire the images 
+(iii) pictures and scans are taken at different periods in the year
+
+
+----------------------------------------------------------------------------------------------------
+2. The package
+----------------------------------------------------------------------------------------------------
+
+The package is organized as follows:"
+- data: this directory contains pictures and associated xml files split into 2 subsets "Train" and 
+"Test" 
+- doc: contains the overview working note on the ImageCLEF2011 plant identification task and the 
+associated presentation used for a talk at the CLEF2011 conference
+- ImageCLEFPlantTaskScores.jar: an executable jar for computing scores given the evaluation metric 
+proposed in the ImageCLEF2011 plant identification task 
+
+
+----------------------------------------------------------------------------------------------------
+2.1. Data
+----------------------------------------------------------------------------------------------------
+
+The dataset contains around 5412 pictures subdivided into 3 different kinds of pictures: 
+- scans (3046), 
+- scan-like photos (897) 
+- free natural photos (2469). 
+
+A detailed description of the data, with picture examples and the full list of species is available:
+ftp://imedia-ftp.inria.fr/ImageCLEF2011/PlantLeaves.pdf
+
+All data are published under a creative commons license.
+
+Each image is associated with the following meta-data stored in independent xml files, one for each 
+image:
+- date
+- acquisition type: Scan, pseudoscan or photograph
+- content type: single leaf, single dead leaf or foliage (several leaves on tree visible in the 
+picture)
+- full taxon name (species, genus, family…)
+- French or English vernacular names (the common names),
+- a individual-plant id,
+- name of the author of the picture,
+- name of the organization of the author
+- locality name (a district or a country division or a regions).
+- GPS coordinates of the observation (the GPS coordinates of the associated locality)
+
+Partial meta-data information can be found in the image's EXIF, and might include:
+- the camera or the scanner model,
+- the image resolutions and the dimensions,
+- for photos, the optical parameters, the white balance, the light measures…
+
+
+----------------------------------------------------------------------------------------------------
+2.2 Train and Test subsets
+----------------------------------------------------------------------------------------------------
+
+Data was split in respect individual-plants, not pîctures, because it is assumed that pictures taken 
+from a same tree can be potentially too similar and introduce a bias in species prediction. 
+
+- Train/: contains all pictures for training step and theirs associated xml files,
+- Test/: contains all pictures to use for producing run files. Each picture is associated with a 
+partial xml files where the following meta-data were removed :
+	- full taxon name (species, genus, family…)
+	- French or English vernacular names (the common names),
+	- individual-plant id
+	
+Ground truth can be found in many ways :
+- TestXmlWithGroundTruth/: contains all full meta-data xml files of test pictures
+- trainGroundTruth.txt : gives all pictures by taxon, one by line, for the training data 
+- testGroundTruth.txt : gives all pictures by taxon, one by line, for the test subset
+- allGroundTruth.txt : gives all pictures by taxon, one by line, for the entire data 
+
+Some additionnal informations can be found:
+- Detail.txt: describes in detail how data was split considering individual-plants and authors
+- SpeciesIDList: gives a species list
+
+
+----------------------------------------------------------------------------------------------------
+3. Run file generation
+----------------------------------------------------------------------------------------------------
+
+The run file has to contain as much lines as the total number of predictions, with at least one 
+prediction per test image and a maximum of 71 predictions per test image (71 being the total number 
+of species). Each prediction item (i.e. each line of the file) has to respect the following format :
+
+<test_image_name.jpg Genus_name species_name rank score>
+
+The pair <Genus_name species_name> forms a unique identifier of the species. These strings have to 
+respect the format provided in the ground-truth file provided with training set (i.e. the same 
+format as the fields <Genus> and <Species> in the xml metadata files). Be carefull with the hybid 
+species <Platanus x hispanica> which contains 3 tokens, not 2 tokens.
+<Rank> is the ranking of a given species for a given test image. For the primary evaluation metric, 
+only prediction items with Rank=1 will be considered. <Score> is a confidence score of a prediction 
+item (the lower the score the lower the confidence). The order of the prediction items (i.e. the 
+lines of the run file) has no influence on the evaluation metric.
+
+Example: sample of a run file for 3 successive image test 212.jpg, 213.jpg and 2107.jpg:
+212.jpg Diospyros kaki 1 0.8
+212.jpg Albizia julibrissin 2 0.1
+212.jpg Celtis australis 3 0.1
+213.jpg Sorbus torminalis 1 0.7
+213.jpg Crataegus azarolus 2 0.3
+2107.jpg Platanus x hispanica 1 1.0
+
+
+----------------------------------------------------------------------------------------------------
+4. Evaluation metric
+----------------------------------------------------------------------------------------------------
+
+The primary metric used to evaluate the submitted runs will be a classification rate on the 1st 
+species returned for each test image. Each test image will be attributed with a score of 1 if the 
+1st returned species is correct and 0 if it is wrong. An average score will then be computed on all 
+test images. A simple mean on all test images would however introduce some bias. Indeed, we remind 
+that the Pl@ntLeaves dataset was built in a collaborative manner. So that few contributors might 
+have provided much more pictures than many other contributors who provided few. Since we want to 
+evaluate the ability of a system to provide correct answers to all users, we rather measure the mean
+of the average classification rate per author. Furthermore, some authors sometimes provided many 
+pictures of the same individual plant (to enrich training data with less efforts). Since we want to 
+evaluate the ability of a system to provide the correct answer based on a single plant observation, 
+we also have to average the classification rate on each individual plant. Finally, our primary 
+metric is defined as the following average classification score S (in latex format):
+
+$$ S =\frac{1}{U}\sum_{u=1}^{U} \frac{1}{P_u}\sum_{p=1}^{P_u} 
+\frac{1}{N_{u,p}}\sum_{n=1}^{N_{u,p}} s_{u,p,n}$$
+
+U : number of users (who have at least one image in the test data)
+Pu : number of individual plants observed by the u-th user
+Nu,p : number of pictures taken from the p-th plant observed by the u-th user
+Su,p,n : classification score (1 or 0) for the n-th picture taken from the p-th plant observed by 
+the u-th user
+
+To isolate and evaluate the impact of the image acquisition type (scan, scan-like, natural 
+pictures), an average classification score S will be computed separately for each type. Participants
+are allowed to train distinct classifiers, use different training subset or use distinct methods for
+each data type. 
+
+
+----------------------------------------------------------------------------------------------------
+5. ImageCLEFPlantTaskScores.jar
+----------------------------------------------------------------------------------------------------
+
+This exectubable jar can be used for computing official scores in respect with the evaluation metric
+described above. 
+
+Usage : 
+java -jar ImageCLEFPlantTaskScores.jar DirectoryContainingTestImageXmlFilesWithGroundTruth run1.txt
+
+Several run files can be used:
+java -jar ImageCLEFPlantTaskScores.jar DirectoryContainingTestImageXmlFilesWithGroundTruth run1.txt 
+run2.txt run3.txt
+or 
+java -jar ImageCLEFPlantTaskScores.jar DirectoryContainingTestImageXmlFilesWithGroundTruth *.txt 
+
+With numerous run files, it is preferable to set up the maximum size of the Java heap:
+java -Xmx128M -jar ImageCLEFPlantTaskScores.jar DirectoryContainingTestImageXmlFilesWithGroundTruth 
+*.txt
+
+The executable jar will produce:
+- OfficialScores.csv: one global file containing official scores for each kind of picture (scan, 
+scan-like or "pseudoscan", photograph), for each run tested.
+- run1ScoreByPicture.csv, run2ScoreByPicture.csv, run3ScoreByPicture.csv...: score details by 
+picture for each run file
+- AllRunScoreByPicture.csv: one global file giving details by picture, useful for comparing several 
+systems and methods
+
+
+The jar can be used with different Train and Test subset, as long as the test directory contains xml
+with full ground truth.
+
+----------------------------------------------------------------------------------------------------
+
+

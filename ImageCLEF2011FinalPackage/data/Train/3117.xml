@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>3117.jpg</FileName>
+  <Date>03/06/09</Date>
+  <Type>Scan</Type>
+  <Organization>Tela</Organization>
+  <Author>Larbouillat Annick</Author>
+  <IndividualPlantId>64</IndividualPlantId>
+  <Taxon>
+    <Clade3>Angiosperms</Clade3>
+    <Clade2>Eudicots</Clade2>
+    <Clade1>Rosids</Clade1>
+    <Regnum>Plantae</Regnum>
+    <Order>Sapindales</Order>
+    <Family>Sapindaceae</Family>
+    <Species>campestre</Species>
+    <Genus>Acer</Genus>
+  </Taxon>
+  <VernacularNames>Field Maple</VernacularNames>
+  <Locality>Paris region - Point2</Locality>
+  <Content>Leaf</Content>
+  <GPSLocality>
+    <Longitude>2.637611111</Longitude>
+    <Latitude>48.79141667</Latitude>
+    <Altitude>0.0</Altitude>
+  </GPSLocality>
+</Image>
+

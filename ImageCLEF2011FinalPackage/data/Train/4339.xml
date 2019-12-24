@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>4339.jpg</FileName>
+  <Date>07/07/10</Date>
+  <Type>Scan</Type>
+  <Organization>Inra</Organization>
+  <Author>Barthelemy Daniel</Author>
+  <IndividualPlantId>217</IndividualPlantId>
+  <Taxon>
+    <Clade3>Angiosperms</Clade3>
+    <Clade2>Eudicots</Clade2>
+    <Clade1>Rosids</Clade1>
+    <Regnum>Plantae</Regnum>
+    <Order>Fagales</Order>
+    <Family>Fagaceae</Family>
+    <Species>ilex</Species>
+    <Genus>Quercus</Genus>
+  </Taxon>
+  <VernacularNames>Holm Oak</VernacularNames>
+  <Locality>France - Herault</Locality>
+  <Content>Leaf</Content>
+  <GPSLocality>
+    <Longitude>3.258363889</Longitude>
+    <Latitude>43.59123611</Latitude>
+    <Altitude>0.0</Altitude>
+  </GPSLocality>
+</Image>
+
