@@ -1,0 +1,3 @@
+C:\Users\Nelson\Documents\Etudes\5A\projet-ml-net\LeafRecognition\obj\Debug\netcoreapp2.1\LeafRecognition.csprojAssemblyReference.cache
+C:\Users\Nelson\Documents\Etudes\5A\projet-ml-net\LeafRecognition\obj\Debug\netcoreapp2.1\LeafRecognition.AssemblyInfoInputs.cache
+C:\Users\Nelson\Documents\Etudes\5A\projet-ml-net\LeafRecognition\obj\Debug\netcoreapp2.1\LeafRecognition.AssemblyInfo.cs
